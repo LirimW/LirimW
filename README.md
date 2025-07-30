@@ -74,15 +74,18 @@
   </p>
 
  
+
+
+ <!-- Discord Account Section -->
  <!-- Discord Account Section -->
 <h1>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=4682B4&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Account's"
+    src="https://readme-typing-svg.herokuapp.com?font=Fredoka&pause=1000&color=326EFF&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Account's"
     alt="Typing SVG"
   />
 </h1>
 <p>
-  <a href="https://discord.com/users/722885079575298090">
+  <a href="https://discord.com/users/722885079575298090" target="_blank" rel="noopener noreferrer">
     <img width="400px"
       src="https://lanyard.kyrie25.dev/api/722885079575298090?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle"
       alt="Discord Profile" />
