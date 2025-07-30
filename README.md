@@ -35,13 +35,12 @@
     </a>
   </p>
 
-  <!-- Discord Server Section -->
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Server" alt="Typing SVG" />
-  </h2>
+ 
+   <!-- Discord Server Section (Animated) -->
+  <h2><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00FFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Server" alt="Typing SVG" /></h2>
   <p>
-    <a href="https://discord.gg/NKtq6XHhqh" target="_blank">
-      <img src="https://api.weblutions.com/discord/invite/NKtq6XHhqh/" alt="Discord Server Banner" />
+    <a href="https://discord.gg/BEq4KMUeUh" target="_blank">
+      <img src="https://api.weblutions.com/discord/invite/BEq4KMUeUh/" alt="Discord Server Banner">
     </a>
   </p>
 
