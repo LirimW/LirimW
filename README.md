@@ -21,7 +21,7 @@
 
   <!-- Social Media Section -->
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=FFA500&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Social+Media's" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=00ffff&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Social+Media's" alt="Typing SVG" />
   </h2>
   <p>
     <a href="https://discord.gg/BEq4KMUeUh" target="_blank">
@@ -37,7 +37,7 @@
 
  
    <!-- Discord Server Section (Animated) -->
-  <h2><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00FFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Server" alt="Typing SVG" /></h2>
+  <h2><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=5f00bf&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Server" alt="Typing SVG" /></h2>
   <p>
     <a href="https://discord.gg/CYFqrQNcd8" target="_blank">
       <img src="https://api.weblutions.com/discord/invite/CYFqrQNcd8/" alt="Discord Server Banner">
@@ -79,7 +79,7 @@
  <!-- Discord Account Section -->
 <h1>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fredoka&pause=1000&color=326EFF&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Account's"
+    src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=a30074&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Account's"
     alt="Typing SVG"
   />
 </h1>
