@@ -21,7 +21,7 @@
 
   <!-- Social Media Section -->
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=FFA500&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=FFA500&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Social+Media's" alt="Typing SVG" />
   </h2>
   <p>
     <a href="https://discord.gg/BEq4KMUeUh" target="_blank">
@@ -37,7 +37,7 @@
 
   <!-- Discord Server Section -->
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Server" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Server" alt="Typing SVG" />
   </h2>
   <p>
     <a href="https://discord.gg/BEq4KMUeUh" target="_blank">
@@ -47,7 +47,7 @@
 
   <!-- Tech Stack Section -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=FF8C00&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=Tech+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=FF8C00&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Tech+Stack" alt="Typing SVG" />
   </h1>
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -64,7 +64,7 @@
 
   <!-- Languages & Tools Section -->
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=32CD32&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=Language's+%26+Tool's" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=32CD32&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Language's+%26+Tool's" alt="Typing SVG" />
   </h2>
   <p>
     <img src="https://skillicons.dev/icons?i=cs,js,html,css,nodejs,mongo&theme=dark" />
@@ -80,7 +80,7 @@
  <!-- Discord Account Section -->
 <h1>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fredoka&pause=1000&color=326EFF&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=My+Discord+Account's"
+    src="https://readme-typing-svg.herokuapp.com?font=Fredoka&pause=1000&color=326EFF&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=My+Discord+Account's"
     alt="Typing SVG"
   />
 </h1>
@@ -95,7 +95,7 @@
 
   <!-- GitHub Stats Section -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=4169E1&background=00000000&center=true&vCenter=true&repeat=false&width=435&lines=Github+Stat's" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=4169E1&background=00000000&center=true&vCenter=true&repeat=true&width=435&lines=Github+Stat's" alt="Typing SVG" />
   </h1>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=LirimW&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Stats" />
